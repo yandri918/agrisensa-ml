@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### 📄 `backend/requirements.txt`
+```txt
+Flask==3.0.0
+Flask-CORS==4.0.0
+numpy==1.26.0
+pandas==2.1.3
+scikit-learn==1.3.2
+tensorflow==2.15.0
+opencv-python==4.9.0.80
+Pillow==10.2.0
+geopy==2.4.1
+python-dotenv==1.0.0
+joblib==1.3.2
+waitress==2.1.2
